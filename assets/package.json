@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "shaik abdul layeeq",
+  "license": "ISC",
+  "dependencies": {
+    "jump.js": "^1.0.2",
+    "require": "^2.4.20",
+    "sal.js": "^0.8.1"
+  }
+}
